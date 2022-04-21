@@ -1,7 +1,7 @@
 ### Hello there! 🐱‍👤
 
-- 🔭 I'm currently an administrative assistant! 
-- 🌱 I’m currently learning JavaScript and sometimes Python out of curiosity.
+- 🔭 I'm currently looking for a job as a front-end web developer! 
+- 🌱 Currently learning JavaScript and sometimes Python out of curiosity.
 - 💬 Ask me about the Arctic Monkeys, I won't stop talking.
 - ✨ Dreaming of getting a job in web development outside of my country and travelling the world!
 - 📫 How to reach me: igoravel21@gmail.com
