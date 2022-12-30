@@ -1,9 +1,9 @@
 ### Hello there! 🐱‍👤
 
-- 🔭 I'm currently looking for a job as a front-end web developer! 
-- 🌱 Currently learning JavaScript and sometimes Python out of curiosity.
+- 🔭 I'm currently working as a front-end developer. 
+- 🌱 I work with React, Next, Express, SASS and Handlebars. 
 - 💬 Ask me about the Arctic Monkeys, I won't stop talking.
-- ✨ Dreaming of getting a job in web development outside of my country and travelling the world!
+- ✨ Dream of travelling the world!
 - 📫 How to reach me: igoravel21@gmail.com
 - ⚡ Fun fact: I love sweet potatoes
 
